@@ -17,5 +17,5 @@ $ conda install matplotlib pandas -y
 ## Method
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44439517/174527605-3701d103-86f5-4207-8be1-6d4826347fe8.png" width="30%" height="30%" hspace="0"/>
+  <img src="https://user-images.githubusercontent.com/44439517/174527605-3701d103-86f5-4207-8be1-6d4826347fe8.png" width="20%" height="20%" hspace="0"/>
 </p>
