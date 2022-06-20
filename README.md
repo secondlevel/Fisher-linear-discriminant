@@ -23,5 +23,5 @@ $ conda install matplotlib pandas -y
 ## Result
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44439517/174528062-a94ed83c-f9b7-44ef-9332-ad0fddec01a1.png" width="50%" height="50%" hspace="0"/>
+  <img src="https://user-images.githubusercontent.com/44439517/174528062-a94ed83c-f9b7-44ef-9332-ad0fddec01a1.png" width="40%" height="40%" hspace="0"/>
 </p>
