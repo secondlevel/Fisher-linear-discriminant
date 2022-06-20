@@ -1,2 +1,2 @@
-# Fisher-s-linear-discriminant
+# Fisher-linear-discriminant
 NYCU, Pattern Recognition, homework2
