@@ -21,9 +21,9 @@ python 310551031_HW2.py
 ```
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/44439517/174536126-2f35f134-51f4-4fdc-ae14-38dc0c011f38.png" width="50%" height="50%"/>
+  <img src="https://user-images.githubusercontent.com/44439517/174536126-2f35f134-51f4-4fdc-ae14-38dc0c011f38.png" width="40%" height="40%"/>
 </p>
 
 ## Result
 
-This argument can achieves 0.9
+This argument can achieves 0.9 on testing data.
