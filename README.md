@@ -14,7 +14,7 @@ $ conda activate PR
 $ conda install matplotlib pandas -y
 ```
 ## Find Closed Form Solution & Evaluate
-You can use the following command to find the best argument, and program will automatically generate the evaluation result.
+You can use the following command to find the best parameters, and program will automatically generate the evaluation result.
 
 ```bash
 python 310551031_HW2.py
