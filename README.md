@@ -3,7 +3,7 @@ NYCU, Pattern Recognition, homework2
 
 This project is to implement Fisher’s linear discriminant by using only NumPy.
 
-The sample code can be download in this [link](https://github.com/NCTU-VRDL/CS_AT0828/tree/main/HW2), and you can also find detailed description in it. 
+The sample code can be download in this [link](https://github.com/NCTU-VRDL/CS_AT0828/tree/main/HW2).
 
 ## Requirement
 In this work, you can use following commend to build the environment.
